@@ -37,10 +37,10 @@ This code base was initially developed and tested on:
   - Apple M1 Max
   - 64 GB memory
   - 2 TB SSD
-  - macOS Sonoma `14.6.1`
-    - Node.js `v20.11.1`
-    - npm `10.8.1`
-    - Python `3.11.1`
+  - macOS Sequoia `15.0.1`
+    - Node.js `v20.18.0`
+    - npm `10.8.2`
+    - Python `3.12.7`
 
 ### Scripts
 
@@ -72,7 +72,7 @@ If you're just getting started with Python, here are snippets of commands that y
 ```sh
 # Verify that you have Python installed on your machine
 % python3 --version
-Python 3.11.1
+Python 3.12.7
 
 # Create a new virtual environment for the project
 % python3 -m venv .venv
