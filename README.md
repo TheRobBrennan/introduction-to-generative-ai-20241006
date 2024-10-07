@@ -37,7 +37,7 @@ This code base was initially developed and tested on:
   - Apple M1 Max
   - 64 GB memory
   - 2 TB SSD
-  - macOS Sonoma `14.6.1`
+  - macOS Sequoia `15.0.1`
     - Node.js `v20.18.0`
     - npm `10.8.2`
     - Python `3.12.7`
